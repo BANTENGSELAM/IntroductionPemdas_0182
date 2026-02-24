@@ -5,6 +5,8 @@ string nama;
 
 
 int main() { //muali
+
+    // tambah variable
     int age;
     int age1;
     age = 20;
