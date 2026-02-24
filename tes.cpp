@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    cout << "Halo! Program berjalan." << endl; // First Commit
+int main() { //muali
+   int p, l, luas;
 }
