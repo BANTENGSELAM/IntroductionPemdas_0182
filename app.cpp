@@ -3,4 +3,7 @@
 using std::cout;
 using std::endl;
 
-int main() /program utama
+int main() //program utama
+{
+    // menampilkan string
+}
