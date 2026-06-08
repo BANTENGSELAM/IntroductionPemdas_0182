@@ -12,4 +12,7 @@ int main() // program utama
     // langkah 3
     cout << "Masukan lebar :" ;
     cin >> lebar ;
+
+    // langkah 4
+    luas = panjang * lebar;
 }
