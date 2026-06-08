@@ -8,4 +8,8 @@ int main() // program utama
     // langkah 2
     cout << "Masukan Panjang : ";
     cin >> panjang;
+
+    // langkah 3
+    cout << "Masukan lebar :" ;
+    cin >> lebar ;
 }
